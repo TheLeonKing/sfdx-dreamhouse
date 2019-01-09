@@ -1,4 +1,4 @@
-# DreamHouse Sample Application 1
+# DreamHouse Sample Application 2
 
 > ** PLEASE NOTE **
 >
